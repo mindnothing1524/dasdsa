@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "website-27e08",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "database": {
+    "rules": "database.rules.json"
+  }
+}
